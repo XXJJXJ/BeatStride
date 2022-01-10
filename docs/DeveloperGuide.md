@@ -8,7 +8,7 @@ This is a react native project built from scratch and has many many areas to be 
 1. Have Android Studio installed
 2. Have NodeJS installed
 3. Have React Native installed
-4. Have some minimal knowledge on Firebase
+4. Have some knowledge about Firebase
 
 **Note:** Detailed instructions to install these are not included. Feel free to google them yourselves :D
 
